@@ -147,7 +147,7 @@ drwxrws---
 ```
 
 Screenshot:  
-![sgid_permission.png](screenshots/05-sgid_permission.png)
+![sgid_permission](screenshots/05-sgid_permission.png)
 
 ---
 
@@ -172,7 +172,7 @@ ls -l /projects
 ```
 
 Screenshot:  
-`screenshots/file_creation.png`
+![file_creation](screenshots/06-file_creation.png) 
 
 ---
 
@@ -197,7 +197,7 @@ getfacl /projects/design.txt
 ```
 
 Screenshot:  
-`screenshots/acl_permission.png`
+![acl_permission](screenshots/07-acl_permission.png)
 
 ---
 
@@ -222,7 +222,7 @@ chage -l reuben
 ```
 
 Screenshot:  
-`screenshots/password_aging.png`
+![password_aging](screenshots/08-password_aging.png)
 
 ---
 
@@ -253,8 +253,8 @@ id bibin
 ```
 
 Screenshot:  
-`screenshots/sudo_using_wheel_group1.png`
-`screenshots/sudo_using_wheel_group2.png`
+![sudo_using_wheel_group1](screenshots/09-sudo_using_wheel_group1.png)
+![sudo_using_wheel_group2](screenshots/10-sudo_using_wheel_group2.png)
 
 ---
 
@@ -306,8 +306,8 @@ ls -l umask_test.txt
 ```
 
 Screenshot:  
-`screenshots/umask_test1.png`
-`screenshots/umask_test2.png`
+![umask_test2](screenshots/11-umask_test2.png)
+![umask_test2](screenshots/12-umask_test2.png)
 
 ---
 
