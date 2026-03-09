@@ -50,7 +50,8 @@ id reuben
 ```
 
 Screenshot:  
-![User Creation](screenshots/user_creation.png)
+![User Creation](screenshots/01-user_creation.png)
+
 
 ---
 
