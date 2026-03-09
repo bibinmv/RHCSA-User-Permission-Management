@@ -70,7 +70,7 @@ getent group developers
 ```
 
 Screenshot:  
-`screenshots/group_creation.png`
+![group_creation](screenshots/02-group_creation.png) 
 
 ---
 
@@ -91,7 +91,7 @@ id reuben
 ```
 
 Screenshot:  
-`screenshots/group_membership.png`
+`screenshots/group_membership.png` 
 
 ---
 
