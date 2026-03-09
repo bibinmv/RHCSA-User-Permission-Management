@@ -50,7 +50,7 @@ id reuben
 ```
 
 Screenshot:  
-`screenshots/user_creation.png`
+![User Creation](screenshots/user_creation.png)
 
 ---
 
