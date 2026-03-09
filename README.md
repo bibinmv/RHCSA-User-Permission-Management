@@ -254,6 +254,7 @@ id bibin
 
 Screenshot:  
 ![sudo_using_wheel_group1](screenshots/09-sudo_using_wheel_group1.png)
+
 ![sudo_using_wheel_group2](screenshots/10-sudo_using_wheel_group2.png)
 
 ---
@@ -306,7 +307,8 @@ ls -l umask_test.txt
 ```
 
 Screenshot:  
-![umask_test2](screenshots/11-umask_test2.png)
+![umask_test1](screenshots/11-umask_test1.png)
+
 ![umask_test2](screenshots/12-umask_test2.png)
 
 ---
