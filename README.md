@@ -91,7 +91,7 @@ id reuben
 ```
 
 Screenshot:  
-`screenshots/group_membership.png` 
+![group_membership](screenshots/03-group_membership.png) 
 
 ---
 
@@ -122,7 +122,7 @@ ls -ld /projects
 ```
 
 Screenshot:  
-`screenshots/directory_permissions.png`
+![directory_permissions](screenshots/04-directory_permissions.png)   
 
 ---
 
@@ -147,7 +147,7 @@ drwxrws---
 ```
 
 Screenshot:  
-`screenshots/sgid_permission.png`
+![sgid_permission.png](screenshots/05-sgid_permission.png)
 
 ---
 
