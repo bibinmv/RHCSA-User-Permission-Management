@@ -327,6 +327,5 @@ umask
 # Conclusion
 
 This lab demonstrates core Linux system administration tasks related to user and permission management. By completing this project on AlmaLinux, I gained practical experience with user accounts, groups, file permissions, ACLs, password policies, and sudo configuration—key skills required for the RHCSA certification and real-world Linux administration.
----
 
-This project demonstrates **core RHCSA user and permission management skills using practical Linux administration commands**.
+---
